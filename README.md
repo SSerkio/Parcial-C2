@@ -1,4 +1,4 @@
 Integrantes:
 
-Sergio Mendoza Perez
+Sergio Mendoza Perez,
 Kevin Hernández Cuadrado
